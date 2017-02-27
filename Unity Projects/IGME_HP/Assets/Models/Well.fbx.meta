@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 7e9d57a8bd3269641bc0935e58e85189
+timeCreated: 1481018933
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base
+    100002: bucket
+    100004: fraggedjoint1
+    100006: fraggedjoint10
+    100008: fraggedjoint11
+    100010: fraggedjoint12
+    100012: fraggedjoint13
+    100014: fraggedjoint14
+    100016: fraggedjoint15
+    100018: fraggedjoint16
+    100020: fraggedjoint17
+    100022: fraggedjoint18
+    100024: fraggedjoint19
+    100026: fraggedjoint2
+    100028: fraggedjoint20
+    100030: fraggedjoint21
+    100032: fraggedjoint22
+    100034: fraggedjoint23
+    100036: fraggedjoint24
+    100038: fraggedjoint25
+    100040: fraggedjoint26
+    100042: fraggedjoint27
+    100044: fraggedjoint28
+    100046: fraggedjoint29
+    100048: fraggedjoint3
+    100050: fraggedjoint30
+    100052: fraggedjoint31
+    100054: fraggedjoint32
+    100056: fraggedjoint4
+    100058: fraggedjoint5
+    100060: fraggedjoint6
+    100062: fraggedjoint7
+    100064: fraggedjoint8
+    100066: fraggedjoint9
+    100068: fraggedRoot
+    100070: Handle
+    100072: joint34
+    100074: joint35
+    100076: joint36
+    100078: joint37
+    100080: joint38
+    100082: joint39
+    100084: joint40
+    100086: joint41
+    100088: material_0
+    100090: material_1
+    100092: material_2
+    100094: Root
+    100096: //RootNode
+    400000: Base
+    400002: bucket
+    400004: fraggedjoint1
+    400006: fraggedjoint10
+    400008: fraggedjoint11
+    400010: fraggedjoint12
+    400012: fraggedjoint13
+    400014: fraggedjoint14
+    400016: fraggedjoint15
+    400018: fraggedjoint16
+    400020: fraggedjoint17
+    400022: fraggedjoint18
+    400024: fraggedjoint19
+    400026: fraggedjoint2
+    400028: fraggedjoint20
+    400030: fraggedjoint21
+    400032: fraggedjoint22
+    400034: fraggedjoint23
+    400036: fraggedjoint24
+    400038: fraggedjoint25
+    400040: fraggedjoint26
+    400042: fraggedjoint27
+    400044: fraggedjoint28
+    400046: fraggedjoint29
+    400048: fraggedjoint3
+    400050: fraggedjoint30
+    400052: fraggedjoint31
+    400054: fraggedjoint32
+    400056: fraggedjoint4
+    400058: fraggedjoint5
+    400060: fraggedjoint6
+    400062: fraggedjoint7
+    400064: fraggedjoint8
+    400066: fraggedjoint9
+    400068: fraggedRoot
+    400070: Handle
+    400072: joint34
+    400074: joint35
+    400076: joint36
+    400078: joint37
+    400080: joint38
+    400082: joint39
+    400084: joint40
+    400086: joint41
+    400088: material_0
+    400090: material_1
+    400092: material_2
+    400094: Root
+    400096: //RootNode
+    4300000: material_0
+    4300002: material_1
+    4300004: material_2
+    7400000: Main
+    9500000: //RootNode
+    13700000: material_0
+    13700002: material_1
+    13700004: material_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 174
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: material_0
+        weight: 1
+      - path: material_1
+        weight: 1
+      - path: material_2
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Base
+        weight: 1
+      - path: Root/bucket
+        weight: 1
+      - path: Root/bucket/Handle
+        weight: 1
+      - path: Root/fraggedRoot
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint1
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint2
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint3
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint4
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint5
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint6
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint7
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint8
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint9
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint10
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint11
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint12
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint13
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint14
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint15
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint16
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint17
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint18
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint19
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint20
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint21
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint22
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint23
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint24
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint25
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint26
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint27
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint28
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint29
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint30
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint31
+        weight: 1
+      - path: Root/fraggedRoot/fraggedjoint32
+        weight: 1
+      - path: Root/fraggedRoot/joint34
+        weight: 1
+      - path: Root/fraggedRoot/joint35
+        weight: 1
+      - path: Root/fraggedRoot/joint36
+        weight: 1
+      - path: Root/fraggedRoot/joint37
+        weight: 1
+      - path: Root/fraggedRoot/joint38
+        weight: 1
+      - path: Root/fraggedRoot/joint39
+        weight: 1
+      - path: Root/fraggedRoot/joint40
+        weight: 1
+      - path: Root/fraggedRoot/joint41
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: d4a34cf1301c1844a9270152dd70fa67
+timeCreated: 1481033763
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: armLowerLeft
+    100002: armLowerRight
+    100004: armUpperLeft
+    100006: armUpperRight
+    100008: clavLeft
+    100010: clavRight
+    100012: Head
+    100014: joint11
+    100016: joint17
+    100018: joint7
+    100020: material_0
+    100022: material_1
+    100024: neck
+    100026: pawLeft
+    100028: pawRight
+    100030: pelvis
+    100032: Root
+    100034: spawnpoint
+    100036: spineLower
+    100038: SpineMid
+    100040: spineUpper
+    100042: //RootNode
+    400000: armLowerLeft
+    400002: armLowerRight
+    400004: armUpperLeft
+    400006: armUpperRight
+    400008: clavLeft
+    400010: clavRight
+    400012: Head
+    400014: joint11
+    400016: joint17
+    400018: joint7
+    400020: material_0
+    400022: material_1
+    400024: neck
+    400026: pawLeft
+    400028: pawRight
+    400030: pelvis
+    400032: Root
+    400034: spawnpoint
+    400036: spineLower
+    400038: SpineMid
+    400040: spineUpper
+    400042: //RootNode
+    4300000: material_0
+    4300002: material_1
+    7400000: Main
+    9500000: //RootNode
+    13700000: material_0
+    13700002: material_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: material_0
+        weight: 1
+      - path: material_1
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/pelvis
+        weight: 1
+      - path: Root/pelvis/spineLower
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavLeft
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavLeft/armUpperLeft
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavLeft/armUpperLeft/armLowerLeft
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavLeft/armUpperLeft/armLowerLeft/pawLeft
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavLeft/armUpperLeft/armLowerLeft/pawLeft/joint17
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavRight
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavRight/armUpperRight
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavRight/armUpperRight/armLowerRight
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavRight/armUpperRight/armLowerRight/pawRight
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/clavRight/armUpperRight/armLowerRight/pawRight/joint11
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/Head
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/Head/joint7
+        weight: 1
+      - path: Root/pelvis/spineLower/SpineMid/spineUpper/neck/Head/joint7/spawnpoint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

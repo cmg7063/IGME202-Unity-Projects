@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 939b78f12629a4743966cf6d7c306c58
+timeCreated: 1481020030
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body_B_branch
+    100002: Body_B_cover
+    100004: Body_BLI_ten1
+    100006: Body_BLI_ten2
+    100008: Body_BLI_ten3
+    100010: Body_BLI_ten4
+    100012: Body_BLM_ten1
+    100014: Body_BLM_ten2
+    100016: Body_BLM_ten3
+    100018: Body_BLO_ten1
+    100020: Body_BLO_ten2
+    100022: Body_BRI_ten1
+    100024: Body_BRI_ten2
+    100026: Body_BRI_ten3
+    100028: Body_BRI_ten4
+    100030: Body_BRM_ten1
+    100032: Body_BRM_ten2
+    100034: Body_BRM_ten3
+    100036: Body_BRO_ten1
+    100038: Body_BRO_ten2
+    100040: Body_joint11
+    100042: Body_joint15
+    100044: Body_joint20
+    100046: Body_joint24
+    100048: Body_joint29
+    100050: Body_joint33
+    100052: Body_joint36
+    100054: Body_joint37
+    100056: Body_joint38
+    100058: Body_joint39
+    100060: Body_joint44
+    100062: Body_joint49
+    100064: Body_joint53
+    100066: Body_joint57
+    100068: Body_joint60
+    100070: Body_joint63
+    100072: Body_page1
+    100074: Body_page2
+    100076: Body_page3
+    100078: body_root
+    100080: Body_T_branch
+    100082: Body_T_cover
+    100084: Body_TLI_ten1
+    100086: Body_TLI_ten2
+    100088: Body_TLI_ten3
+    100090: Body_TLI_ten4
+    100092: Body_TLO_ten1
+    100094: Body_TLO_ten2
+    100096: Body_TLO_ten3
+    100098: Body_tounge1
+    100100: Body_tounge2
+    100102: Body_tounge3
+    100104: Body_tounge4
+    100106: Body_tounge5
+    100108: Body_TRI_ten1
+    100110: Body_TRI_ten2
+    100112: Body_TRI_ten3
+    100114: Body_TRI_ten4
+    100116: Body_TRM_ten1
+    100118: Body_TRM_ten2
+    100120: Body_TRM_ten3
+    100122: Body_TRO_ten1
+    100124: Body_TRO_ten2
+    100126: material_0
+    100128: material_1
+    100130: //RootNode
+    400000: Body_B_branch
+    400002: Body_B_cover
+    400004: Body_BLI_ten1
+    400006: Body_BLI_ten2
+    400008: Body_BLI_ten3
+    400010: Body_BLI_ten4
+    400012: Body_BLM_ten1
+    400014: Body_BLM_ten2
+    400016: Body_BLM_ten3
+    400018: Body_BLO_ten1
+    400020: Body_BLO_ten2
+    400022: Body_BRI_ten1
+    400024: Body_BRI_ten2
+    400026: Body_BRI_ten3
+    400028: Body_BRI_ten4
+    400030: Body_BRM_ten1
+    400032: Body_BRM_ten2
+    400034: Body_BRM_ten3
+    400036: Body_BRO_ten1
+    400038: Body_BRO_ten2
+    400040: Body_joint11
+    400042: Body_joint15
+    400044: Body_joint20
+    400046: Body_joint24
+    400048: Body_joint29
+    400050: Body_joint33
+    400052: Body_joint36
+    400054: Body_joint37
+    400056: Body_joint38
+    400058: Body_joint39
+    400060: Body_joint44
+    400062: Body_joint49
+    400064: Body_joint53
+    400066: Body_joint57
+    400068: Body_joint60
+    400070: Body_joint63
+    400072: Body_page1
+    400074: Body_page2
+    400076: Body_page3
+    400078: body_root
+    400080: Body_T_branch
+    400082: Body_T_cover
+    400084: Body_TLI_ten1
+    400086: Body_TLI_ten2
+    400088: Body_TLI_ten3
+    400090: Body_TLI_ten4
+    400092: Body_TLO_ten1
+    400094: Body_TLO_ten2
+    400096: Body_TLO_ten3
+    400098: Body_tounge1
+    400100: Body_tounge2
+    400102: Body_tounge3
+    400104: Body_tounge4
+    400106: Body_tounge5
+    400108: Body_TRI_ten1
+    400110: Body_TRI_ten2
+    400112: Body_TRI_ten3
+    400114: Body_TRI_ten4
+    400116: Body_TRM_ten1
+    400118: Body_TRM_ten2
+    400120: Body_TRM_ten3
+    400122: Body_TRO_ten1
+    400124: Body_TRO_ten2
+    400126: material_0
+    400128: material_1
+    400130: //RootNode
+    4300000: material_0
+    4300002: material_1
+    7400000: Main
+    9500000: //RootNode
+    13700000: material_0
+    13700002: material_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 408
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body_root
+        weight: 1
+      - path: body_root/Body_B_cover
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLI_ten1
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLI_ten1/Body_BLI_ten2
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLI_ten1/Body_BLI_ten2/Body_BLI_ten3
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLI_ten1/Body_BLI_ten2/Body_BLI_ten3/Body_BLI_ten4
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLI_ten1/Body_BLI_ten2/Body_BLI_ten3/Body_BLI_ten4/Body_joint49
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLM_ten1
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLM_ten1/Body_BLM_ten2
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLM_ten1/Body_BLM_ten2/Body_BLM_ten3
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLM_ten1/Body_BLM_ten2/Body_BLM_ten3/Body_joint57
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLO_ten1
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLO_ten1/Body_BLO_ten2
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BLO_ten1/Body_BLO_ten2/Body_joint63
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRI_ten1
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRI_ten1/Body_BRI_ten2
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRI_ten1/Body_BRI_ten2/Body_BRI_ten3
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRI_ten1/Body_BRI_ten2/Body_BRI_ten3/Body_BRI_ten4
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRI_ten1/Body_BRI_ten2/Body_BRI_ten3/Body_BRI_ten4/Body_joint44
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRM_ten1
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRM_ten1/Body_BRM_ten2
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRM_ten1/Body_BRM_ten2/Body_BRM_ten3
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRM_ten1/Body_BRM_ten2/Body_BRM_ten3/Body_joint53
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRO_ten1
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRO_ten1/Body_BRO_ten2
+        weight: 1
+      - path: body_root/Body_B_cover/Body_B_branch/Body_BRO_ten1/Body_BRO_ten2/Body_joint60
+        weight: 1
+      - path: body_root/Body_page1
+        weight: 1
+      - path: body_root/Body_page1/Body_page2
+        weight: 1
+      - path: body_root/Body_page1/Body_page2/Body_page3
+        weight: 1
+      - path: body_root/Body_page1/Body_page2/Body_page3/Body_joint15
+        weight: 1
+      - path: body_root/Body_T_cover
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_joint37
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_joint37/Body_joint38
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_joint37/Body_joint38/Body_joint39
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TLI_ten1
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TLI_ten1/Body_TLI_ten2
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TLI_ten1/Body_TLI_ten2/Body_TLI_ten3
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TLI_ten1/Body_TLI_ten2/Body_TLI_ten3/Body_TLI_ten4
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TLI_ten1/Body_TLI_ten2/Body_TLI_ten3/Body_TLI_ten4/Body_joint29
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TLO_ten1
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TLO_ten1/Body_TLO_ten2
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TLO_ten1/Body_TLO_ten2/Body_TLO_ten3
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TLO_ten1/Body_TLO_ten2/Body_TLO_ten3/Body_joint33
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRI_ten1
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRI_ten1/Body_TRI_ten2
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRI_ten1/Body_TRI_ten2/Body_TRI_ten3
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRI_ten1/Body_TRI_ten2/Body_TRI_ten3/Body_TRI_ten4
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRI_ten1/Body_TRI_ten2/Body_TRI_ten3/Body_TRI_ten4/Body_joint20
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRM_ten1
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRM_ten1/Body_TRM_ten2
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRM_ten1/Body_TRM_ten2/Body_TRM_ten3
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRM_ten1/Body_TRM_ten2/Body_TRM_ten3/Body_joint24
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRO_ten1
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRO_ten1/Body_TRO_ten2
+        weight: 1
+      - path: body_root/Body_T_cover/Body_T_branch/Body_TRO_ten1/Body_TRO_ten2/Body_joint36
+        weight: 1
+      - path: body_root/Body_tounge1
+        weight: 1
+      - path: body_root/Body_tounge1/Body_tounge2
+        weight: 1
+      - path: body_root/Body_tounge1/Body_tounge2/Body_tounge3
+        weight: 1
+      - path: body_root/Body_tounge1/Body_tounge2/Body_tounge3/Body_tounge4
+        weight: 1
+      - path: body_root/Body_tounge1/Body_tounge2/Body_tounge3/Body_tounge4/Body_tounge5
+        weight: 1
+      - path: body_root/Body_tounge1/Body_tounge2/Body_tounge3/Body_tounge4/Body_tounge5/Body_joint11
+        weight: 1
+      - path: material_0
+        weight: 1
+      - path: material_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

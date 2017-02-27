@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 9d99ec70a9280d64586480f9996b720f
+timeCreated: 1481020313
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body_Bback
+    100002: Body_Bback2
+    100004: Body_Blip
+    100006: Body_Bteeth
+    100008: body_root
+    100010: Body_Tback
+    100012: Body_Tback2
+    100014: Body_Tlip
+    100016: Body_Tteeth
+    100018: material_0
+    100020: //RootNode
+    400000: Body_Bback
+    400002: Body_Bback2
+    400004: Body_Blip
+    400006: Body_Bteeth
+    400008: body_root
+    400010: Body_Tback
+    400012: Body_Tback2
+    400014: Body_Tlip
+    400016: Body_Tteeth
+    400018: material_0
+    400020: //RootNode
+    4300000: material_0
+    7400000: Main
+    9500000: //RootNode
+    13700000: material_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 331
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body_root
+        weight: 1
+      - path: body_root/Body_Bback
+        weight: 1
+      - path: body_root/Body_Bback/Body_Bback2
+        weight: 1
+      - path: body_root/Body_Bback/Body_Bback2/Body_Blip
+        weight: 1
+      - path: body_root/Body_Bback/Body_Bback2/Body_Blip/Body_Bteeth
+        weight: 1
+      - path: body_root/Body_Tback
+        weight: 1
+      - path: body_root/Body_Tback/Body_Tback2
+        weight: 1
+      - path: body_root/Body_Tback/Body_Tback2/Body_Tlip
+        weight: 1
+      - path: body_root/Body_Tback/Body_Tback2/Body_Tlip/Body_Tteeth
+        weight: 1
+      - path: material_0
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

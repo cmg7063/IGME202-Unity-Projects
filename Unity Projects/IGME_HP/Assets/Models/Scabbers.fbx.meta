@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 7d6fb61dc0635fc48a157de16c659466
+timeCreated: 1481044681
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body_BallLeft
+    100002: body_BallRight
+    100004: body_ElbowLeft
+    100006: body_ElbowRight
+    100008: body_FingersEndLeft
+    100010: body_FingersEndRight
+    100012: body_FingersLeft
+    100014: body_FingersRight
+    100016: body_HandLeft
+    100018: body_HandRight
+    100020: Body_Head
+    100022: body_HeelLeft
+    100024: body_HeelRight
+    100026: body_HipLeft
+    100028: body_HipRight
+    100030: body_KneeLeft
+    100032: body_KneeRight
+    100034: body_lowerspine
+    100036: Body_midSpine
+    100038: Body_Neck
+    100040: Body_neckBase
+    100042: body_root
+    100044: body_ShoulderLeft
+    100046: body_ShoulderRight
+    100048: body_tail_01
+    100050: body_tail_02
+    100052: body_tail_03
+    100054: body_tail_04
+    100056: body_tail_05
+    100058: body_ToeLeft
+    100060: body_ToeRight
+    100062: Body_topSpine
+    100064: material_0
+    100066: //RootNode
+    400000: body_BallLeft
+    400002: body_BallRight
+    400004: body_ElbowLeft
+    400006: body_ElbowRight
+    400008: body_FingersEndLeft
+    400010: body_FingersEndRight
+    400012: body_FingersLeft
+    400014: body_FingersRight
+    400016: body_HandLeft
+    400018: body_HandRight
+    400020: Body_Head
+    400022: body_HeelLeft
+    400024: body_HeelRight
+    400026: body_HipLeft
+    400028: body_HipRight
+    400030: body_KneeLeft
+    400032: body_KneeRight
+    400034: body_lowerspine
+    400036: Body_midSpine
+    400038: Body_Neck
+    400040: Body_neckBase
+    400042: body_root
+    400044: body_ShoulderLeft
+    400046: body_ShoulderRight
+    400048: body_tail_01
+    400050: body_tail_02
+    400052: body_tail_03
+    400054: body_tail_04
+    400056: body_tail_05
+    400058: body_ToeLeft
+    400060: body_ToeRight
+    400062: Body_topSpine
+    400064: material_0
+    400066: //RootNode
+    4300000: material_0
+    7400000: Main
+    9500000: //RootNode
+    13700000: material_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body_root
+        weight: 1
+      - path: body_root/body_HipLeft
+        weight: 1
+      - path: body_root/body_HipLeft/body_KneeLeft
+        weight: 1
+      - path: body_root/body_HipLeft/body_KneeLeft/body_HeelLeft
+        weight: 1
+      - path: body_root/body_HipLeft/body_KneeLeft/body_HeelLeft/body_BallLeft
+        weight: 1
+      - path: body_root/body_HipLeft/body_KneeLeft/body_HeelLeft/body_BallLeft/body_ToeLeft
+        weight: 1
+      - path: body_root/body_HipRight
+        weight: 1
+      - path: body_root/body_HipRight/body_KneeRight
+        weight: 1
+      - path: body_root/body_HipRight/body_KneeRight/body_HeelRight
+        weight: 1
+      - path: body_root/body_HipRight/body_KneeRight/body_HeelRight/body_BallRight
+        weight: 1
+      - path: body_root/body_HipRight/body_KneeRight/body_HeelRight/body_BallRight/body_ToeRight
+        weight: 1
+      - path: body_root/body_lowerspine
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/Body_neckBase
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/Body_neckBase/Body_Neck
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/Body_neckBase/Body_Neck/Body_Head
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderLeft
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderLeft/body_ElbowLeft
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderLeft/body_ElbowLeft/body_HandLeft
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderLeft/body_ElbowLeft/body_HandLeft/body_FingersLeft
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderLeft/body_ElbowLeft/body_HandLeft/body_FingersLeft/body_FingersEndLeft
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderRight
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderRight/body_ElbowRight
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderRight/body_ElbowRight/body_HandRight
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderRight/body_ElbowRight/body_HandRight/body_FingersRight
+        weight: 1
+      - path: body_root/body_lowerspine/Body_midSpine/Body_topSpine/body_ShoulderRight/body_ElbowRight/body_HandRight/body_FingersRight/body_FingersEndRight
+        weight: 1
+      - path: body_root/body_tail_01
+        weight: 1
+      - path: body_root/body_tail_01/body_tail_02
+        weight: 1
+      - path: body_root/body_tail_01/body_tail_02/body_tail_03
+        weight: 1
+      - path: body_root/body_tail_01/body_tail_02/body_tail_03/body_tail_04
+        weight: 1
+      - path: body_root/body_tail_01/body_tail_02/body_tail_03/body_tail_04/body_tail_05
+        weight: 1
+      - path: material_0
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

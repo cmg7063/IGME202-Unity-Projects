@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: dee3f3652159ad04b9b30a32226db22b
+timeCreated: 1481034227
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bush
+    100002: Head
+    100004: jaw
+    100006: joint10
+    100008: joint13
+    100010: joint8
+    100012: material_0
+    100014: material_1
+    100016: Root
+    100018: spawnpoint
+    100020: spine1
+    100022: spine2
+    100024: spine3
+    100026: spine4
+    100028: spine5
+    100030: //RootNode
+    100032: tounge1
+    100034: tounge2
+    400000: bush
+    400002: Head
+    400004: jaw
+    400006: joint10
+    400008: joint13
+    400010: joint8
+    400012: material_0
+    400014: material_1
+    400016: Root
+    400018: spawnpoint
+    400020: spine1
+    400022: spine2
+    400024: spine3
+    400026: spine4
+    400028: spine5
+    400030: //RootNode
+    400032: tounge1
+    400034: tounge2
+    4300000: material_0
+    4300002: material_1
+    7400000: Main
+    9500000: //RootNode
+    13700000: material_0
+    13700002: material_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: material_0
+        weight: 1
+      - path: material_1
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/bush
+        weight: 1
+      - path: Root/bush/spine1
+        weight: 1
+      - path: Root/bush/spine1/spine2
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4/spine5
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4/spine5/Head
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4/spine5/Head/jaw
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4/spine5/Head/jaw/joint10
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4/spine5/Head/joint8
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4/spine5/Head/spawnpoint
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4/spine5/Head/tounge1
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4/spine5/Head/tounge1/tounge2
+        weight: 1
+      - path: Root/bush/spine1/spine2/spine3/spine4/spine5/Head/tounge1/tounge2/joint13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

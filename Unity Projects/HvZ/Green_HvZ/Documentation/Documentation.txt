@@ -1,0 +1,24 @@
+Corinne Green
+IGME 202 Section 5
+
+Assignment: 
+Humans v. Zombies
+
+Description:
+A 3D project of a park populated by humans and zombies. Both humans and zombies extend the VehicleMovement class. This project utlizes seeking, fleeing, pursuit, evasion, obstacle avoidance, wandering, boundary checking, and debug lines. Collisions are detected between humans and zombies.
+
+User Responsibilities: 
+Debug lines can be turned on/off with the 'D' key. Press 'SPACE' to shuffle through camera views.
+
+Note: Press 'D' TWICE to start toggle on/off, sorry!
+
+Above and Beyond: 
+Menu screen, camera view shuffle, ability to "restart" without exiting Unity program entirely.
+
+Known Issues ("It's not a bug, it's a feature"):
+1. Sometimes the cubes start rotating and glitching out.
+2. I couldn't figure out how to draw a circle or "crosshair", so my future position for both humans and zombies is just a vector line.
+3. Because there are 50 obstacles generated throughout the scene in such a small space (100 x 100 terrain), some of them spawn really close together. Because the humans and zombies spawn at random positions, sometimes they get stuck between the spawned obstacles. Usually they can get out after a while.
+
+Credit: 
+Environment packet is from the Medeival Environment Pack available on the Unity Asset Store https://www.assetstore.unity3d.com/en/#!/content/6859

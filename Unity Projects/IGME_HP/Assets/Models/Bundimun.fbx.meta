@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 34853171c6337c04aa98bee8c516a1dd
+timeCreated: 1481036281
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BackEyeBottom
+    100002: BackEyeTop
+    100004: BackLeg
+    100006: BackLegEnd
+    100008: BackLegEnd1
+    100010: FrontLeg
+    100012: FrontLegEnd
+    100014: FrontLegEnd1
+    100016: //RootNode
+    100018: Head
+    100020: LeftEyeBottom
+    100022: LeftEyeTop
+    100024: LeftLegEight
+    100026: LeftLegEightEnd
+    100028: LeftLegEightEnd1
+    100030: LeftLegFive
+    100032: LeftLegFiveEnd
+    100034: LeftLegFiveEnd1
+    100036: LeftLegFour
+    100038: LeftLegFourEnd
+    100040: LeftLegFourEnd1
+    100042: LeftLegNine
+    100044: LeftLegNineEnd
+    100046: LeftLegNineEnd1
+    100048: LeftLegOne
+    100050: LeftLegOneEnd
+    100052: LeftLegOneEnd1
+    100054: LeftLegSeven
+    100056: LeftLegSevenEnd
+    100058: LeftLegSevenEnd1
+    100060: LeftLegSix
+    100062: LeftLegSixEnd
+    100064: LeftLegSixEnd1
+    100066: LeftLegThree
+    100068: LeftLegThreeEnd
+    100070: LeftLegThreeEnd1
+    100072: LeftLegTwo
+    100074: LeftLegTwoEnd
+    100076: LeftLegTwoEnd1
+    100078: material_0
+    100080: RightEyeBottom
+    100082: RightEyeTop
+    100084: RightLegEight
+    100086: RightLegEightEnd
+    100088: RightLegEightEnd1
+    100090: RightLegFive
+    100092: RightLegFiveEnd
+    100094: RightLegFiveEnd1
+    100096: RightLegFour
+    100098: RightLegFourEnd
+    100100: RightLegFourEnd1
+    100102: RightLegNine
+    100104: RightLegNineEnd
+    100106: RightLegNineEnd1
+    100108: RightLegOne
+    100110: RightLegOneEnd
+    100112: RightLegOneEnd1
+    100114: RightLegSeven
+    100116: RightLegSevenEnd
+    100118: RightLegSevenEnd1
+    100120: RightLegSix
+    100122: RightLegSixEnd
+    100124: RightLegSixEnd1
+    100126: RightLegThree
+    100128: RightLegThreeEnd
+    100130: RightLegThreeEnd1
+    100132: RightLegTwo
+    100134: RightLegTwoEnd
+    100136: RightLegTwoEnd1
+    100138: Root
+    100140: SideEyeBottom
+    100142: SideEyeTop
+    100144: SnoutEnd
+    100146: SnoutOne
+    100148: SnoutThree
+    100150: SnoutTwo
+    100152: UpperSpine
+    400000: BackEyeBottom
+    400002: BackEyeTop
+    400004: BackLeg
+    400006: BackLegEnd
+    400008: BackLegEnd1
+    400010: FrontLeg
+    400012: FrontLegEnd
+    400014: FrontLegEnd1
+    400016: //RootNode
+    400018: Head
+    400020: LeftEyeBottom
+    400022: LeftEyeTop
+    400024: LeftLegEight
+    400026: LeftLegEightEnd
+    400028: LeftLegEightEnd1
+    400030: LeftLegFive
+    400032: LeftLegFiveEnd
+    400034: LeftLegFiveEnd1
+    400036: LeftLegFour
+    400038: LeftLegFourEnd
+    400040: LeftLegFourEnd1
+    400042: LeftLegNine
+    400044: LeftLegNineEnd
+    400046: LeftLegNineEnd1
+    400048: LeftLegOne
+    400050: LeftLegOneEnd
+    400052: LeftLegOneEnd1
+    400054: LeftLegSeven
+    400056: LeftLegSevenEnd
+    400058: LeftLegSevenEnd1
+    400060: LeftLegSix
+    400062: LeftLegSixEnd
+    400064: LeftLegSixEnd1
+    400066: LeftLegThree
+    400068: LeftLegThreeEnd
+    400070: LeftLegThreeEnd1
+    400072: LeftLegTwo
+    400074: LeftLegTwoEnd
+    400076: LeftLegTwoEnd1
+    400078: material_0
+    400080: RightEyeBottom
+    400082: RightEyeTop
+    400084: RightLegEight
+    400086: RightLegEightEnd
+    400088: RightLegEightEnd1
+    400090: RightLegFive
+    400092: RightLegFiveEnd
+    400094: RightLegFiveEnd1
+    400096: RightLegFour
+    400098: RightLegFourEnd
+    400100: RightLegFourEnd1
+    400102: RightLegNine
+    400104: RightLegNineEnd
+    400106: RightLegNineEnd1
+    400108: RightLegOne
+    400110: RightLegOneEnd
+    400112: RightLegOneEnd1
+    400114: RightLegSeven
+    400116: RightLegSevenEnd
+    400118: RightLegSevenEnd1
+    400120: RightLegSix
+    400122: RightLegSixEnd
+    400124: RightLegSixEnd1
+    400126: RightLegThree
+    400128: RightLegThreeEnd
+    400130: RightLegThreeEnd1
+    400132: RightLegTwo
+    400134: RightLegTwoEnd
+    400136: RightLegTwoEnd1
+    400138: Root
+    400140: SideEyeBottom
+    400142: SideEyeTop
+    400144: SnoutEnd
+    400146: SnoutOne
+    400148: SnoutThree
+    400150: SnoutTwo
+    400152: UpperSpine
+    4300000: material_0
+    7400000: Main
+    9500000: //RootNode
+    13700000: material_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 297
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: material_0
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/BackEyeBottom
+        weight: 1
+      - path: Root/BackEyeTop
+        weight: 1
+      - path: Root/BackLeg
+        weight: 1
+      - path: Root/BackLeg/BackLegEnd
+        weight: 1
+      - path: Root/BackLegEnd1
+        weight: 1
+      - path: Root/FrontLeg
+        weight: 1
+      - path: Root/FrontLeg/FrontLegEnd
+        weight: 1
+      - path: Root/FrontLegEnd1
+        weight: 1
+      - path: Root/Head
+        weight: 1
+      - path: Root/LeftEyeBottom
+        weight: 1
+      - path: Root/LeftEyeTop
+        weight: 1
+      - path: Root/LeftLegEight
+        weight: 1
+      - path: Root/LeftLegEight/LeftLegEightEnd
+        weight: 1
+      - path: Root/LeftLegEightEnd1
+        weight: 1
+      - path: Root/LeftLegFive
+        weight: 1
+      - path: Root/LeftLegFive/LeftLegFiveEnd
+        weight: 1
+      - path: Root/LeftLegFiveEnd1
+        weight: 1
+      - path: Root/LeftLegFour
+        weight: 1
+      - path: Root/LeftLegFour/LeftLegFourEnd
+        weight: 1
+      - path: Root/LeftLegFourEnd1
+        weight: 1
+      - path: Root/LeftLegNine
+        weight: 1
+      - path: Root/LeftLegNine/LeftLegNineEnd
+        weight: 1
+      - path: Root/LeftLegNineEnd1
+        weight: 1
+      - path: Root/LeftLegOne
+        weight: 1
+      - path: Root/LeftLegOne/LeftLegOneEnd
+        weight: 1
+      - path: Root/LeftLegOneEnd1
+        weight: 1
+      - path: Root/LeftLegSeven
+        weight: 1
+      - path: Root/LeftLegSeven/LeftLegSevenEnd
+        weight: 1
+      - path: Root/LeftLegSevenEnd1
+        weight: 1
+      - path: Root/LeftLegSix
+        weight: 1
+      - path: Root/LeftLegSix/LeftLegSixEnd
+        weight: 1
+      - path: Root/LeftLegSixEnd1
+        weight: 1
+      - path: Root/LeftLegThree
+        weight: 1
+      - path: Root/LeftLegThree/LeftLegThreeEnd
+        weight: 1
+      - path: Root/LeftLegThreeEnd1
+        weight: 1
+      - path: Root/LeftLegTwo
+        weight: 1
+      - path: Root/LeftLegTwo/LeftLegTwoEnd
+        weight: 1
+      - path: Root/LeftLegTwoEnd1
+        weight: 1
+      - path: Root/RightEyeBottom
+        weight: 1
+      - path: Root/RightEyeTop
+        weight: 1
+      - path: Root/RightLegEight
+        weight: 1
+      - path: Root/RightLegEight/RightLegEightEnd
+        weight: 1
+      - path: Root/RightLegEightEnd1
+        weight: 1
+      - path: Root/RightLegFive
+        weight: 1
+      - path: Root/RightLegFive/RightLegFiveEnd
+        weight: 1
+      - path: Root/RightLegFiveEnd1
+        weight: 1
+      - path: Root/RightLegFour
+        weight: 1
+      - path: Root/RightLegFour/RightLegFourEnd
+        weight: 1
+      - path: Root/RightLegFourEnd1
+        weight: 1
+      - path: Root/RightLegNine
+        weight: 1
+      - path: Root/RightLegNine/RightLegNineEnd
+        weight: 1
+      - path: Root/RightLegNineEnd1
+        weight: 1
+      - path: Root/RightLegOne
+        weight: 1
+      - path: Root/RightLegOne/RightLegOneEnd
+        weight: 1
+      - path: Root/RightLegOneEnd1
+        weight: 1
+      - path: Root/RightLegSeven
+        weight: 1
+      - path: Root/RightLegSeven/RightLegSevenEnd
+        weight: 1
+      - path: Root/RightLegSevenEnd1
+        weight: 1
+      - path: Root/RightLegSix
+        weight: 1
+      - path: Root/RightLegSix/RightLegSixEnd
+        weight: 1
+      - path: Root/RightLegSixEnd1
+        weight: 1
+      - path: Root/RightLegThree
+        weight: 1
+      - path: Root/RightLegThree/RightLegThreeEnd
+        weight: 1
+      - path: Root/RightLegThreeEnd1
+        weight: 1
+      - path: Root/RightLegTwo
+        weight: 1
+      - path: Root/RightLegTwo/RightLegTwoEnd
+        weight: 1
+      - path: Root/RightLegTwoEnd1
+        weight: 1
+      - path: Root/SideEyeBottom
+        weight: 1
+      - path: Root/SideEyeTop
+        weight: 1
+      - path: Root/UpperSpine
+        weight: 1
+      - path: Root/UpperSpine/SnoutOne
+        weight: 1
+      - path: Root/UpperSpine/SnoutOne/SnoutTwo
+        weight: 1
+      - path: Root/UpperSpine/SnoutOne/SnoutTwo/SnoutThree
+        weight: 1
+      - path: Root/UpperSpine/SnoutOne/SnoutTwo/SnoutThree/SnoutEnd
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

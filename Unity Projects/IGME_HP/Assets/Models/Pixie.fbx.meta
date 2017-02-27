@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: f4587d0b2be92de4981ec048ee45f59d
+timeCreated: 1481035884
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Head
+    100002: headbot
+    100004: lAnkle
+    100006: lBend
+    100008: lear
+    100010: learBot
+    100012: lKnee
+    100014: lLowwing
+    100016: lLowwingBot
+    100018: lowerSpine
+    100020: lrearElbow
+    100022: lrearHand
+    100024: lrearHandBot
+    100026: lRearShoulder
+    100028: ltHip
+    100030: lToe
+    100032: lwing
+    100034: lwingBot
+    100036: material_0
+    100038: material_1
+    100040: midSpine
+    100042: neck
+    100044: neckBase
+    100046: //RootNode
+    100048: rAnkle
+    100050: rBend
+    100052: rear
+    100054: rearBot
+    100056: rHip
+    100058: rKnee
+    100060: rLowwing
+    100062: rLowwingBot
+    100064: Root
+    100066: rreaerElbow
+    100068: rrearHand
+    100070: rrearHandBot
+    100072: rrearShoulder
+    100074: rToe
+    100076: rwing
+    100078: rwingBot
+    100080: wingBase
+    400000: Head
+    400002: headbot
+    400004: lAnkle
+    400006: lBend
+    400008: lear
+    400010: learBot
+    400012: lKnee
+    400014: lLowwing
+    400016: lLowwingBot
+    400018: lowerSpine
+    400020: lrearElbow
+    400022: lrearHand
+    400024: lrearHandBot
+    400026: lRearShoulder
+    400028: ltHip
+    400030: lToe
+    400032: lwing
+    400034: lwingBot
+    400036: material_0
+    400038: material_1
+    400040: midSpine
+    400042: neck
+    400044: neckBase
+    400046: //RootNode
+    400048: rAnkle
+    400050: rBend
+    400052: rear
+    400054: rearBot
+    400056: rHip
+    400058: rKnee
+    400060: rLowwing
+    400062: rLowwingBot
+    400064: Root
+    400066: rreaerElbow
+    400068: rrearHand
+    400070: rrearHandBot
+    400072: rrearShoulder
+    400074: rToe
+    400076: rwing
+    400078: rwingBot
+    400080: wingBase
+    4300000: material_0
+    4300002: material_1
+    7400000: Main
+    9500000: //RootNode
+    13700000: material_0
+    13700002: material_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 368
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: material_0
+        weight: 1
+      - path: material_1
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/lowerSpine
+        weight: 1
+      - path: Root/lowerSpine/midSpine
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/lRearShoulder
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/lRearShoulder/lrearElbow
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/lRearShoulder/lrearElbow/lrearHand
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/lRearShoulder/lrearElbow/lrearHand/lrearHandBot
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/neck
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/neck/Head
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/neck/Head/headbot
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/neck/Head/lear
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/neck/Head/lear/learBot
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/neck/Head/rear
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/neck/Head/rear/rearBot
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/rrearShoulder
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/rrearShoulder/rreaerElbow
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/rrearShoulder/rreaerElbow/rrearHand
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/rrearShoulder/rreaerElbow/rrearHand/rrearHandBot
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/wingBase
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/wingBase/lLowwing
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/wingBase/lLowwing/lLowwingBot
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/wingBase/lwing
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/wingBase/lwing/lwingBot
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/wingBase/rLowwing
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/wingBase/rLowwing/rLowwingBot
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/wingBase/rwing
+        weight: 1
+      - path: Root/lowerSpine/midSpine/neckBase/wingBase/rwing/rwingBot
+        weight: 1
+      - path: Root/ltHip
+        weight: 1
+      - path: Root/ltHip/lKnee
+        weight: 1
+      - path: Root/ltHip/lKnee/lAnkle
+        weight: 1
+      - path: Root/ltHip/lKnee/lAnkle/lBend
+        weight: 1
+      - path: Root/ltHip/lKnee/lAnkle/lBend/lToe
+        weight: 1
+      - path: Root/rHip
+        weight: 1
+      - path: Root/rHip/rKnee
+        weight: 1
+      - path: Root/rHip/rKnee/rAnkle
+        weight: 1
+      - path: Root/rHip/rKnee/rAnkle/rBend
+        weight: 1
+      - path: Root/rHip/rKnee/rAnkle/rBend/rToe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
