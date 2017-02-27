@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\AutonomousAgents\Assets\Scripts\AgentManager.cs">
+    <Files>
+      <File FileName="..\AutonomousAgents\Assets\Scripts\VehicleMovement.cs" Line="77" Column="40" />
+      <File FileName="..\AutonomousAgents\Assets\Scripts\AgentManager.cs" Line="27" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

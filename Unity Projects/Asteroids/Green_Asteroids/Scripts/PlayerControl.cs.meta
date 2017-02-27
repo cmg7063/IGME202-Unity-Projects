@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f493731e64e7796438460a8639e56e96
+timeCreated: 1477044334
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shoot: {fileID: 8300000, guid: dd3ad7497e267484faae80046eeab245, type: 3}
+  - bullet: {instanceID: 0}
+  - smallAsteroid: {instanceID: 0}
+  - largeAsteroid: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

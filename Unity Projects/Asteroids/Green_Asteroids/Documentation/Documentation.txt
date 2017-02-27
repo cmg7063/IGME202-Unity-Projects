@@ -1,0 +1,29 @@
+Corinne Green
+IGME 202 Section 5
+
+Assignment: 
+Asteroids
+
+Description:
+The purpose of the assignment was to demonstrate an understanding of time, vectors, vector-based movement, and collision detection.
+
+User Responsibilities: 
+The player must destroy all the asteroids to progress to the next level. Just to clarify, the purple sprite (Demagorgon) is the "Large Asteroid" and the green sprite (Slug NOT cucumber) is the "Small Asteroid". The Demagorgon splits into Slugs.
+
+Above and Beyond: 
+All assets in this project aside from the music and the font were created by me. The sound effects were created using Bfxr. I used Canvases throughout the game to create the UI layout. I added a power up in the form of pudding which adds 100 points to the player's score. It only appears after level 1. The bullet has an "animation". It's not really an animation, it's just looping through a sprite array. I also implemented a level system.
+
+Known Issues:
+The player was moving reallllllly slowly when I tried playing my project on one of the lab computers, but it works perfectly fine on my laptop. So yeah, it may have been a network issue but sorry if it is slow for some reason??
+Sometimes, when the score exceeds the width of the text box, it gets cut off
+
+Credit: 
+Font: http://www.dafont.com/silkscreen.font
+Music: 
+Elegia - New Order
+Stranger Things Intro 8bit (ish) - Filthy Frackers (YouTube)
+Should I Stay or Should I Go - The Clash - 8-Bit Sound (YouTube)
+
+Notes: 
+I am using my grace period for this project :(
+
